@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sagor! 👋
 
-<!--
-**thesagor/thesagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently working as a **WordPress Developer**, **Laravel Developer**, and **Support Engineer**.
+- 🔧 Passionate about creating robust and scalable web solutions.
+- 🌟 Always open to collaborating on exciting projects and learning new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Content Management Systems:** WordPress (Theme and Plugin Development, Customization).
+- **Programming Languages:** PHP, JavaScript.
+- **Frameworks and Tools:** Laravel, React, MySQL, Git.
+- **Other:** Technical Support, Server Management, Website Optimization.
+
+## 📈 GitHub Stats
+![Sagor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesagor&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- 🌐 Website: [thesagor.nl](https://thesagor.nl)
+- 💼 LinkedIn: [Add your LinkedIn URL here]
+- ✉️ Email: [mail@thesagor.nl](mailto:mail@thesagor.nl)
+
+## 🛠 Projects
+Here are some of my favorite projects:
+- **[Project Name](GitHub link)**: WordPress plugin or theme developed to solve specific challenges.
+- **[Project Name](GitHub link)**: Laravel application showcasing advanced backend functionality.
+
+Feel free to explore my repositories and leave a star ⭐ if you find something interesting. Let's code something amazing together! 🚀
