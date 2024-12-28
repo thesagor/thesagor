@@ -14,15 +14,16 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Other:** Technical Support, Server Management, Website Optimization.
 
 ## ❤️ My Passion
-![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg) ![Laravel Logo](https://laravel.com/img/logotype.min.svg)
+![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png) ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg) ![Laravel Logo](https://laravel.com/img/logotype.min.svg)
 
-I have a deep passion for working with **PHP** programming language and the **Laravel** framework to build modern, efficient web applications.
+I have a deep passion for working with **WordPress**, **PHP** programming language, and the **Laravel** framework to build modern, efficient web applications.
 
 ## 📈 GitHub Stats
 ![Sagor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesagor&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - 🌐 Website: [thesagor.nl](https://thesagor.nl)
+- 💼 LinkedIn: [Add your LinkedIn URL here]
 - ✉️ Email: [mail@thesagor.nl](mailto:mail@thesagor.nl)
 
 ## 🛠 Projects
