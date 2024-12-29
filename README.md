@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Other:** Technical Support, Server Management, Website Optimization.
 
 ## ❤️ My Passion
-![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png) ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg) ![Laravel Logo](https://laravel.com/img/logotype.min.svg)
+![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png) ![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg) ![Laravel Logo]([https://laravel.com/img/logotype.min.svg](https://laravel.com/img/logomark.min.svg))
 
 I have a deep passion for working with **WordPress**, **PHP** programming language, and the **Laravel** framework to build modern, efficient web applications.
 
