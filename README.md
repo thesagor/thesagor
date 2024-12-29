@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Other:** Technical Support, Server Management, Website Optimization.
 
 ## ❤️ My Passion
-![WordPress Logo](https://github.com/thesagor/quickstartpack/blob/master/logooo.png)
+![WordPress Logo](https://github.com/thesagor/quickstartpack/blob/master/looogo.png)
 
 I have a deep passion for working with **WordPress**, **PHP** programming language, and the **Laravel** framework to build modern, efficient web applications.
 
